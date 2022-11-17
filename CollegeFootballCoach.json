@@ -746,7 +746,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UCF",
-          "prestige" : "78",
+          "prestige" : "74",
           "hexColor" : "#B7A369",
           "rival" : "CIN",
           "headCoach" : {
@@ -770,7 +770,7 @@
         },
         {
           "abbreviation" : "CIN",
-          "prestige" : "72",
+          "prestige" : "68",
           "hexColor" : "#E00112",
           "rival" : "UCF",
           "headCoach" : {
