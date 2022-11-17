@@ -52,7 +52,7 @@
         },
         {
           "abbreviation" : "UF",
-          "prestige" : "86",
+          "prestige" : "84",
           "hexColor" : "#0021A5",
           "rival" : "UGA",
           "headCoach" : {
@@ -76,7 +76,7 @@
         },
         {
           "abbreviation" : "TENN",
-          "prestige" : "73",
+          "prestige" : "82",
           "hexColor" : "#FF8200",
           "rival" : "MISS",
           "headCoach" : {
@@ -100,7 +100,7 @@
         },
         {
           "abbreviation" : "LSU",
-          "prestige" : "90",
+          "prestige" : "88",
           "hexColor" : "#461D7C",
           "rival" : "ARK",
           "headCoach" : {
@@ -148,7 +148,7 @@
         },
         {
           "abbreviation" : "ARK",
-          "prestige" : "71",
+          "prestige" : "66",
           "hexColor" : "#9D2235",
           "rival" : "LSU",
           "headCoach" : {
@@ -172,7 +172,7 @@
         },
         {
           "abbreviation" : "UT",
-          "prestige" : "80",
+          "prestige" : "78",
           "hexColor" : "#BF5700",
           "rival" : "OU",
           "headCoach" : {
@@ -252,7 +252,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UM",
-          "prestige" : "85",
+          "prestige" : "88",
           "hexColor" : "#00274C",
           "rival" : "MSU",
           "headCoach" : {
@@ -348,7 +348,7 @@
         },
         {
           "abbreviation" : "MINN",
-          "prestige" : "78",
+          "prestige" : "72",
           "hexColor" : "#7A0019",
           "rival" : "WIS",
           "headCoach" : {
@@ -396,7 +396,7 @@
         },
         {
           "abbreviation" : "IOWA",
-          "prestige" : "81",
+          "prestige" : "80",
           "hexColor" : "#000000",
           "rival" : "NEB",
           "headCoach" : {
@@ -444,7 +444,7 @@
         },
         {
           "abbreviation" : "USC",
-          "prestige" : "71",
+          "prestige" : "78",
           "hexColor" : "#990000",
           "rival" : "NW",
           "headCoach" : {
